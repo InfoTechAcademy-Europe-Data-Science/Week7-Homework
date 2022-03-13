@@ -1,4 +1,4 @@
-# Week7-Hmework
+# Week7-Homework
 
 ## Question 1:
 
